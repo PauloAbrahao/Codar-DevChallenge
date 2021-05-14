@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/Lorenalgm/codar">Desafio</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contato</a>
+    <a href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">Contato</a>
   </p>
 </p>
 
@@ -70,4 +70,4 @@ Para os ícones, é recomendada a utilização de uma biblioteca, como o Font Aw
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 
-Criado por  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+Criado por  <a href="https://github.com/PauloAbrahao">Paulo Abrahão</a> :)
